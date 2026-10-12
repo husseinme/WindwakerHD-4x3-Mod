@@ -13,8 +13,8 @@ Enable 4:3 Fullscreen + HUD Test and select a 4:3 preset.
 Restart the game.
 
 Presets
-960 × 720
-1280 × 960
+960 × 720,
+1280 × 960,
 1440 × 1080
 
 Current status
